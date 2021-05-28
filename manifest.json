@@ -1,0 +1,12 @@
+{
+    "name" : "hackathon extension",
+    "version": "0.1",
+    "manifest_version":2,
+    "description": "This is a hackathon extension",
+    "icons": {
+        "16" : "myicon.png"
+    },
+    "browser_action" : {
+        "default_popup" : "index.html"
+    }
+}
